@@ -35,6 +35,7 @@ High-Performance GPU Kernels for Inference
 - **Sparse Attention**: Block-sparse and variable block-sparse patterns
 - **POD-Attention**: Fused prefill+decode for mixed batching
 
+
 ### GEMM & Linear Operations
 - **BF16 GEMM**: BF16 matrix multiplication for SM10.0+ GPUs.
 - **FP8 GEMM**: Per-tensor and groupwise scaling
